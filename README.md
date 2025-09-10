@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **RestAssured, and other Test Automation**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IndieQA](https://github.com/IndieQA)
+- 👨‍💻 All of my projects are available at [https://github.com/IndieQA?tab=repositories](https://github.com/IndieQA?tab=repositories)
 
 - 💬 Ask me about **Java, Selenium WebDriver, Postman, RestAssured, Jira and Condfluence**
 
